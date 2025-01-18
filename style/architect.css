@@ -46,6 +46,16 @@
     margin: 0 auto;
   }
 
+  .navbar, .banner{
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .section-titile{
+    font-size: 2.82rem;
+    font-weight: 700;
+}
+
   /* header style */
 
 
@@ -67,11 +77,6 @@
     text-decoration: none;
     font-size: 18px;
     font-weight: 500;
-  }
-
-  .navbar, .banner{
-    max-width: 1440px;
-    margin: 0 auto;
   }
 
   /* banner related style */
@@ -110,10 +115,7 @@
     max-width: 537px;
     margin-left: 73px;
 }
-.features-titile{
-    font-size: 2.82rem;
-    font-weight: 700;
-}
+
 #quick-list{
     color: rgb(114, 114, 114);
     font-weight: 500;
